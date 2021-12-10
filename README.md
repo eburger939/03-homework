@@ -9,9 +9,9 @@
 
 
 ## Screen shot of final depolyed webpage
-![screenshot]
+![screenshot](assets/images/screenshot.png)
 
 
 ## Link to deployed application
-* 
+* https://eburger939.github.io/03-homework/
 
