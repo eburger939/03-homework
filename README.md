@@ -13,5 +13,5 @@
 
 
 ## Link to deployed application
-* https://eburger939.github.io/03-homework/
+* https://eburger939.github.io/password-generator/
 
